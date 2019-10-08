@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherExample</string>
+    <string-array name="weather_spinner_choices">
+        <item>Past Weather</item>
+        <item>Moon Phase</item>
+    </string-array>
+</resources>
